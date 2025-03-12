@@ -1,12 +1,14 @@
 # Problem Statements Repository
 
 This repository contains various problem statements, each documented in individual markdown files.
-
 ## List of Problem Statements
 
-| #  | Problem Statement | Link |
-|----|------------------|------|
-| 1  | FoodFast Delivery API | [FoodFast Delivery API.md](FoodFast Delivery API.md) |
+| #  | Problem Statement           | Link                                      |
+|----|-----------------------------|-------------------------------------------|
+| 1  | FoodFast Delivery API       | [FoodFast Delivery API.md](FoodFast%20Delivery%20API.md) |
+| 2  | FleetSync API               | [FleetSync API.md](FleetSync%20API.md) |
+| 3  | Medsync API                 | [Medsync API.md](Medsync%20API.md) |
+
 
 ## How to Use
 
